@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1444921133 source:/home/nvidia/Desktop/COP6616/Assignment3/parts/part3_threadpool/MRLockThreadPool/main.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<mutex>
+	<functional>
+	<cstdlib>
+	<chrono>
+	<ctime>
+	<boost/asio/io_service.hpp>
+	<boost/thread.hpp>
+	<boost/bind.hpp>
+	<mrlock.h>
+	<bitset.h>
+
+1444165259 /home/nvidia/Desktop/COP6616/Assignment3/parts/part3_threadpool/MRLockThreadPool/mrlock.h
+	<atomic>
+	<cassert>
+	<cstdint>
+	<thread>
+	"bitset.h"
+
+1444165259 /home/nvidia/Desktop/COP6616/Assignment3/parts/part3_threadpool/MRLockThreadPool/bitset.h
+	<string.h>
+

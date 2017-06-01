@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1444932455 source:/home/nvidia/Desktop/COP6616/Assignment3/parts/part1_threadpool/glThrreadPool/main.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<mutex>
+	<functional>
+	<fstream>
+	<cstdlib>
+	<chrono>
+	<ctime>
+	<boost/asio/io_service.hpp>
+	<boost/thread.hpp>
+	<boost/bind.hpp>
+
